@@ -1,0 +1,34 @@
+{
+  "title": "Background",
+  "icon": "graduationcap",
+  "type": "timeline",
+  "items": [
+    {
+      "title": "PhD in Informatics",
+      "event": "University of Luxembourg · cotutelle with University of Bologna",
+      "role": "PhD in Law, Science and Technology (Bologna)",
+      "location": "Luxembourg / Bologna, Italy",
+      "period": "2018 – 2022",
+      "description": "Thesis: \"Hybrid Artificial Intelligence to Extract Patterns and Rules from Argumentative and Legal Texts\". Supervisors: Prof. Monica Palmirani (Bologna) and Prof. Leon van der Torre (Luxembourg)."
+    },
+    {
+      "title": "MSc in Computing",
+      "event": "Edinburgh Napier University",
+      "location": "Edinburgh, Scotland, UK",
+      "period": "Sep 2017 – Nov 2018",
+      "description": "Research topics included Machine Learning, Network Security, Data Wrangling, and Programming for the Web."
+    },
+    {
+      "title": "Languages",
+      "description": "**English** (B2) · **French** (B1) · **Spanish** (B2) · **Chinese Mandarin** (A2)"
+    },
+    {
+      "title": "Academic Service",
+      "description": "Reviewer for: **AI Journal** · **AI & Law Journal** · **Argument Mining Workshop** (ACL) · **ICAIL** (International Conference on AI and Law) · **JURIX** (International Conference on Legal Knowledge and Information Systems)"
+    },
+    {
+      "title": "Hobbies",
+      "description": "Studied **violin** at the Conservatory of Palermo and the Conservatory of Bologna. Also plays **guitar**."
+    }
+  ]
+}

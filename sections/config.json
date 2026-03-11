@@ -1,0 +1,26 @@
+{
+  "name": "Davide Liga",
+  "title": "Postdoctoral Researcher in Computer Science",
+  "affiliation": "University of Luxembourg",
+  "department": "Department of Computer Science and Communications",
+  "email": "davide - dot - liga - at - uni - dot - lu",
+  "photo": "",
+  "bio": "*I believe we can harness AI to help humans better understand one another and build a more humane society*  ❤︎ ❤︎ ❤︎\nMy research sits at the intersection of **Artificial Intelligence**, **Natural Language Processing**, and **Norms**, with a focus on **Large Language Models** and **Mechanistic Interpretability**.",
+  "links": {
+    "googleScholar": "https://scholar.google.com/citations?user=Vs7od3QAAAAJ&hl=en",
+    "linkedin": "https://www.linkedin.com/in/davide-liga/",
+    "orcid": "https://orcid.org/0000-0003-1124-0299",
+    "github": "https://github.com/daviligade",
+    "universityPage": "https://wwwen.uni.lu/recherche/fstm/dcs/members/davide_liga"
+  },
+  "sections": [
+    "background",
+    "publications",
+    "conferences",
+    "visiting",
+    "teaching",
+    "fundings",
+    "participation",
+    "awards"
+  ]
+}

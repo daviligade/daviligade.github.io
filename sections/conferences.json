@@ -1,0 +1,176 @@
+{
+  "title": "Conferences",
+  "icon": "mic",
+  "type": "timeline",
+  "items": [
+    {
+      "title": "SPEAKABLE — Speech Language Models in Low-Resource Settings: Performance, Evaluation, and Bias Analysis",
+      "event": "LREC 2026",
+      "role": "Workshop Organiser",
+      "badge": "organizer",
+      "location": "Mallorca, Spain",
+      "date": "May 2026",
+      "url": ""
+    },
+    {
+      "title": "NORA 2026 — Normative Reasoning for Agentic AI (Special Track)",
+      "event": "39th International FLAIRS Conference",
+      "role": "Track Organiser",
+      "badge": "organizer",
+      "location": "Marco Island, Florida, USA",
+      "date": "May 2026",
+      "url": ""
+    },
+    {
+      "title": "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI (Best Paper)",
+      "event": "International Conference on Artificial Intelligence and Law (ICAIL 2026)",
+      "role": "Paper Presentation",
+      "location": "",
+      "date": "2026",
+      "url": "https://doi.org/10.1145/3769126.3769252"
+    },
+    {
+      "title": "From Numbers to Meaning: The Rise of LLMs within the Symbolic-Subsymbolic Dichotomy",
+      "event": "Xi'an Jiaotong-Liverpool University",
+      "role": "Invited Talk",
+      "badge": "invited",
+      "location": "Suzhou, China",
+      "date": "Feb 2026",
+      "url": ""
+    },
+    {
+      "title": "CALM 2025 — 2nd International Workshop on Causality, Agents, and Large Models",
+      "event": "PRIMA 2025",
+      "role": "Workshop Organiser",
+      "badge": "organizer",
+      "location": "Luxembourg",
+      "date": "Dec 2025",
+      "url": ""
+    },
+    {
+      "title": "Leveraging LLMs and LegalDocML to extract legal interpretations",
+      "event": "JURISIN 2025 (at ICAIL 2025)",
+      "role": "Paper Presentation",
+      "location": "Chicago, USA",
+      "date": "2025",
+      "url": ""
+    },
+    {
+      "title": "AI alignment of LLMs: a simple case study on detecting deceptive designs",
+      "event": "Aligning AI with Human Values — University of Bergen",
+      "role": "Invited Talk",
+      "badge": "invited",
+      "location": "Bergen, Norway",
+      "date": "Nov 2024",
+      "url": "https://medieklyngen.no/events/uib-ai-12-aligning-ai-with-human-values-challenges-and-solutions/"
+    },
+    {
+      "title": "CALM 2024 — 1st International Workshop on Causality, Agents, and Large Models",
+      "event": "PRIMA 2024",
+      "role": "Workshop Organiser",
+      "badge": "organizer",
+      "location": "Kyoto, Japan",
+      "date": "Nov 2024",
+      "url": ""
+    },
+    {
+      "title": "OntoVAT / PaTrOnto / Classifying Norms / Argumentation Scheme from Vicarious Liability",
+      "event": "JURISIN 2023 (at ICAIL 2023)",
+      "role": "Multiple Paper Presentations",
+      "location": "Braga, Portugal",
+      "date": "2023",
+      "url": ""
+    },
+    {
+      "title": "Testing spatial reasoning of Large Language Models: the case of tic-tac-toe",
+      "event": "AIxPAC 2023",
+      "role": "Paper Presentation",
+      "location": "",
+      "date": "2023",
+      "url": ""
+    },
+    {
+      "title": "Mining Arguments and Norms using NLP and LLMs",
+      "event": "Kyoto University",
+      "role": "Invited Talk",
+      "badge": "invited",
+      "location": "Kyoto, Japan",
+      "date": "2023",
+      "url": ""
+    },
+    {
+      "title": "LNGAI 2023 — 3rd International Workshop on Logics for New-Generation Artificial Intelligence",
+      "event": "Standalone Workshop",
+      "role": "Workshop Organiser",
+      "badge": "organizer",
+      "location": "Hangzhou, China",
+      "date": "Sep 2023",
+      "url": ""
+    },
+    {
+      "title": "Transfer Learning for Deontic Rule Classification: the Case Study of the GDPR",
+      "event": "JURIX 2022",
+      "role": "Paper Presentation",
+      "location": "Saarbrücken, Germany",
+      "date": "Dec 2022",
+      "url": "https://doi.org/10.3233/FAIA220467"
+    },
+    {
+      "title": "Derogations Analysis of European Legislation Through Hybrid AI Approach",
+      "event": "EGOV-ISP 2022",
+      "role": "Paper Presentation",
+      "location": "",
+      "date": "2022",
+      "url": "https://doi.org/10.1007/978-3-031-12673-4_9"
+    },
+    {
+      "title": "Deontic Sentence Classification Using Tree Kernel Classifiers",
+      "event": "SAI Intelligent Systems Conference 2022",
+      "role": "Paper Presentation",
+      "location": "",
+      "date": "2022",
+      "url": "https://doi.org/10.1007/978-3-031-16072-1_4"
+    },
+    {
+      "title": "Uncertainty in Argumentation Schemes: Negative Consequences and Basic Slippery Slope",
+      "event": "International Conference on Logic and Argumentation (CLAR 2020)",
+      "role": "Paper Presentation",
+      "location": "",
+      "date": "2020",
+      "url": "https://doi.org/10.1007/978-3-030-44638-3_16"
+    },
+    {
+      "title": "Argumentative Evidences Classification and Argument Scheme Detection Using Tree Kernels",
+      "event": "6th Workshop on Argument Mining (ACL 2019)",
+      "role": "Paper Presentation",
+      "location": "Florence, Italy",
+      "date": "Aug 2019",
+      "url": ""
+    },
+    {
+      "title": "Detecting 'Slippery Slope' and Other Argumentative Stances of Opposition Using Tree Kernels",
+      "event": "International Joint Conference on Rules and Reasoning (RuleML+RR 2019)",
+      "role": "Paper Presentation",
+      "location": "",
+      "date": "2019",
+      "url": "https://doi.org/10.1007/978-3-030-31095-0_13"
+    },
+    {
+      "title": "Tree Kernels",
+      "event": "Zhejiang University",
+      "role": "Invited Talk",
+      "badge": "invited",
+      "location": "Hangzhou, China",
+      "date": "2019",
+      "url": ""
+    },
+    {
+      "title": "Classifying argumentative stances of opposition using Tree Kernels",
+      "event": "ACAI 2019 — ACM International Conference on Algorithms, Computing and Artificial Intelligence",
+      "role": "Paper Presentation",
+      "location": "Sanya, China",
+      "date": "2019",
+      "url": "https://doi.org/10.1145/3377713.3377717"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Project Participation",
+  "icon": "list",
+  "type": "fundings",
+  "items": [
+    {
+      "shortTitle": "D4H",
+      "fullTitle": "Deep Data Science for Digital History (Doctoral Training Unit)",
+      "agency": "Luxembourg National Research Fund",
+      "agencyShort": "FNR PRIDE",
+      "pi": "Prof. Andreas Fickers (PI)",
+      "budget": "",
+      "period": "2024 – present",
+      "status": "",
+      "partners": [
+        "University of Luxembourg",
+        "Luxembourg Institute for Science and Technology (LIST)",
+        "Luxembourg Institute of Socio-Economic Research (LISER)"
+      ],
+      "description": "Scientific coordinator of the DTU D4H, co-supervising 18 PhD students across 3 institutions under the direction of PI Prof. Andreas Fickers.",
+      "url": "https://d4h.uni.lu/about/"
+    },
+    {
+      "shortTitle": "DELIGHT",
+      "fullTitle": "Deontic Logic for Epistemic Rights",
+      "agency": "Luxembourg National Research Fund",
+      "agencyShort": "FNR OPEN",
+      "pi": "Dr. Réka Markovich (PI)",
+      "budget": "",
+      "period": "Sep 2023 – Feb 2024",
+      "status": "",
+      "partners": ["University of Luxembourg"],
+      "description": "Participated as expert in AI&Law and in the use of Large Language Models in the legal domain.",
+      "url": ""
+    },
+    {
+      "shortTitle": "ADELE",
+      "fullTitle": "Analytics for DEcision of LEgal cases",
+      "agency": "EU Justice Programme",
+      "agencyShort": "EU Justice",
+      "pi": "Prof. Giovanni Sartor (PI)",
+      "budget": "",
+      "period": "2022 – 2023",
+      "status": "",
+      "partners": [
+        "University of Bologna – Alma Mater Studiorum, Italy",
+        "University of Luxembourg",
+        "University of Turin, Italy",
+        "APIS Europe, Bulgaria",
+        "Sayuz Na Yuristite v Bulgaria (SAJUZ), Bulgaria",
+        "LIBRe Foundation"
+      ],
+      "description": "EU Justice programme grant agreement n° 101007420.",
+      "url": "https://site.unibo.it/adele/en"
+    },
+    {
+      "shortTitle": "INDIGO",
+      "fullTitle": "Information in the EU's Digitalised Governance",
+      "agency": "Dutch Research Council",
+      "agencyShort": "NWO",
+      "pi": "Prof. Herwig C. H. Hofmann (PI)",
+      "budget": "",
+      "period": "Nov 2020 – Oct 2023",
+      "status": "",
+      "partners": ["University of Luxembourg"],
+      "description": "Participated as one of the main experts in the area of AI and Machine Learning.",
+      "url": "https://project-indigo.eu/about/meet-our-team/"
+    },
+    {
+      "shortTitle": "DILLAN",
+      "fullTitle": "Digitalization, Law, and Innovation",
+      "agency": "FNR PRIDE",
+      "agencyShort": "",
+      "pi": "Dr. Réka Markovich (PI)",
+      "budget": "",
+      "period": "",
+      "status": "",
+      "partners": ["University of Luxembourg"],
+      "description": "This project funded a Doctoral Training Unit (DTU) of 15 PhD students. I participated as main expert in the area of LLMs and AI.",
+      "url": ""
+    },
+    {
+      "shortTitle": "MIREL",
+      "fullTitle": "MIning and REasoning with Legal texts",
+      "agency": "European Commission — Horizon 2020",
+      "agencyShort": "H2020",
+      "pi": "Prof. Leon van der Torre (PI)",
+      "budget": "€1.152M",
+      "period": "2016 – 2019",
+      "status": "",
+      "partners": [
+        "University of Turin, Italy",
+        "Alma Mater Studiorum – University of Bologna, Italy",
+        "University of Huddersfield, UK",
+        "INRIA, France",
+        "Apis Hristovich EOOD, Bulgaria",
+        "Nomotika SRL, Italy",
+        "DLVSystem SRL, Italy"
+      ],
+      "description": "Horizon 2020 grant agreement n° 690974. International project exploring the intersection of symbolic and sub-symbolic AI for legal text mining and reasoning.",
+      "url": "https://cordis.europa.eu/project/id/690974"
+    },
+    {
+      "shortTitle": "LEOS",
+      "fullTitle": "Drafting Legislation in the Era of AI and Digitisation",
+      "agency": "European Commission",
+      "agencyShort": "EC",
+      "pi": "",
+      "budget": "",
+      "period": "",
+      "status": "",
+      "partners": [],
+      "description": "",
+      "url": "https://interoperable-europe.ec.europa.eu/collection/justice-law-and-security/solution/leos-open-source-software-editing-legislation/document/drafting-legislation-era-ai-and-digitisation"
+    },
+    {
+      "shortTitle": "EUR4JUSTICE",
+      "fullTitle": "EUR4JUSTICE",
+      "agency": "Fondazione CRUI",
+      "agencyShort": "CRUI",
+      "pi": "",
+      "budget": "",
+      "period": "",
+      "status": "",
+      "partners": [],
+      "description": "",
+      "url": "https://er4justice.fondazionecrui.it/"
+    }
+  ]
+}

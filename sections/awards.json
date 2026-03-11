@@ -1,0 +1,45 @@
+{
+  "title": "Awards & Distinctions",
+  "icon": "star",
+  "type": "awards",
+  "items": [
+    {
+      "title": "MSCA Seal of Excellence — NoRMLLM (Normative Reasoning in Large Language Models)",
+      "year": 2026,
+      "organization": "European Commission (Marie Skłodowska-Curie Actions Postdoctoral Fellowships)",
+      "description": "Awarded the prestigious 🏆 Seal of Excellence 🏆 with a ~95% score (94.6/100) for the MSCA-PF proposal NoRMLLM. The proposal received 5.0/5.0 in the implementation criterion, 4.7/5.0 in excellence, and 4.6/5.0 in impact."
+    },
+    {
+      "title": "Best Paper Award — 🏆 ICAIL 2026 🏆",
+      "year": 2026,
+      "organization": "International Conference on Artificial Intelligence and Law (ACM ICAIL)",
+      "description": "Awarded for the paper \"Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering\"."
+    },
+    {
+      "title": "Winner — UN General Assembly Resolutions Automatic Information Extraction and Knowledge Elicitation",
+      "year": 2019,
+      "organization": "United Nations",
+      "description": "First place in the international competition for automatic extraction and knowledge elicitation from UN General Assembly Resolutions."
+    }
+  ],
+  "ADDITIONAL": [
+    {
+      "title": "Very Positive Evaluation — DeLiMit-LLM-NormS (MSCA-PF)",
+      "year": 2025,
+      "organization": "European Commission",
+      "description": "Second MSCA-PF attempt received a very positive evaluation score of 81.0/100, almost reaching the Seal of Excellence threshold. Scored 5.0/5.0 in impact and 4.0/5.0 in implementation."
+    },
+    {
+      "title": "LAMORE Project — Funding Recommendation by International Scientific Panel",
+      "year": 2023,
+      "organization": "Luxembourg National Research Fund (FNR)",
+      "description": "The project LAMORE (Language Models For Legal Reasoning) was recommended for funding by an international scientific panel on behalf of the FNR with a very positive score."
+    },
+    {
+      "title": "Positive Evaluation — ELENORA (MSCA-PF)",
+      "year": 2023,
+      "organization": "European Commission",
+      "description": "First MSCA-PF attempt for the project ELENORA received a positive evaluation score of 74.4/100 in the highly competitive MSCA Postdoctoral Fellowship. Scored 4.40/5.00 in impact and 4.00/5.00 in implementation."
+    }
+  ]
+}

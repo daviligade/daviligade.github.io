@@ -1,0 +1,159 @@
+{
+  "title": "Teaching & Supervision",
+  "icon": "graduationcap",
+  "type": "teaching",
+  "categories": [
+    {
+      "label": "Teaching",
+      "kind": "teaching",
+      "items": [
+        {
+          "title": "Large Reasoning Models and Agentic Reasoning",
+          "institution": "University of Luxembourg",
+          "year": "2025",
+          "audience": "PhD students",
+          "badge": "seminar",
+          "sessions": "2 sessions · 2h each",
+          "description": "LLMs, Large Reasoning Models, Agentic Reasoning."
+        },
+        {
+          "title": "From Numbers to Meaning: Machine Learning, Deep Neural Networks, Large Language Models, and Multimodal Generative AI",
+          "institution": "University of Luxembourg",
+          "year": "2025",
+          "audience": "PhD students",
+          "badge": "seminar",
+          "sessions": "3 sessions · 2h each",
+          "description": "Introductory course for doctora students to provide a base understanding of concepts like Machine Learning, Deep Neural Networks, Large Language Models, and Multimodal Generative AI."
+        },
+        {
+          "title": "Explainable AI and Machine Learning: Ethical and Unbiased Decision-Making",
+          "institution": "University of Luxembourg",
+          "year": "2024",
+          "audience": "PhD students",
+          "badge": "seminar",
+          "sessions": "10 sessions · 2h each",
+          "description": "XAI methods (post-hoc, ante-hoc, global vs. local), SHAP, LIME, PDPs, and ethical aspects of explainable AI."
+        },
+        {
+          "title": "AI, Reasoning, and Decisions",
+          "institution": "University of Luxembourg",
+          "year": "2023",
+          "audience": "PhD students",
+          "badge": "seminar",
+          "sessions": "10 sessions · 1h30m each",
+          "description": "Case studies and real-world AI applications, including guest lecture by Prof. Dov Gabbay on symbolic AI and reasoning."
+        },
+        {
+          "title": "Argumentation and Case-Based Reasoning for Cognitive Behavioural Therapy with Generative AI",
+          "institution": "University of Luxembourg",
+          "year": "2023",
+          "audience": "PhD students",
+          "badge": "seminar",
+          "sessions": "5 sessions · 2h each",
+          "description": "Using LLMs to build logically coherent chatbots with cognitive-behavioural therapy skills."
+        },
+        {
+          "title": "Generative AI, Multimodal Foundation Models, and Logically Consistent Artificial Agents",
+          "institution": "University of Luxembourg",
+          "year": "2023",
+          "audience": "PhD students",
+          "badge": "seminar",
+          "sessions": "5 sessions · 1h30m each",
+          "description": "Generative AI, multimodality in large models, and symbolic (knowledge-driven) constraints for artificial agents."
+        },
+        {
+          "title": "Lecture on Large Language Models",
+          "institution": "Kyoto University",
+          "year": "2023",
+          "audience": "Master's students",
+          "badge": "invited",
+          "description": "Technical foundations of LLMs: training, fine-tuning, alignment, and real-world applications — invited at a Master's course."
+        },
+        {
+          "title": "Input/Output Logic",
+          "institution": "University of Luxembourg",
+          "year": "2022",
+          "audience": "Master's students",
+          "badge": "course",
+          "description": "Class on deontic logic and input/output logic, part of a regular Master's degree course."
+        },
+        {
+          "title": "Elements of AI — Neural Networks Module",
+          "institution": "Online (University of Helsinki)",
+          "year": "2022",
+          "audience": "General public",
+          "badge": "course",
+          "description": "Perceptron, backpropagation, non-linear functions, biases, and weights."
+        },
+        {
+          "title": "Tree Kernels Methodologies",
+          "institution": "Zhejiang University",
+          "year": "2019",
+          "audience": "Master's and Doctoral students",
+          "badge": "invited",
+          "description": "ML and NLP classification methodologies with a focus on Tree Kernels and statistical methods — invited lecture as part of the curricular activity."
+        },
+        {
+          "title": "Data Mining using Python",
+          "institution": "University of Bologna",
+          "year": "2018/2019",
+          "audience": "Master's students",
+          "badge": "course",
+          "description": "Data mining techniques using NumPy, pandas, and scikit-learn, for Master's students in Digital Humanities."
+        }
+      ]
+    },
+    {
+      "label": "PhD Supervision",
+      "kind": "supervision",
+      "items": [
+        {
+          "name": "Rachele M***",
+          "thesis": "A Knowledge-Driven Framework for Multilingual Legal Harmonization Using Large Language Models",
+          "programme": "PhD in Informatique · University of Luxembourg (cotutelle with University of Bologna)",
+          "level": "phd",
+          "status": "ongoing",
+          "supervisors": "Luigi Di Caro (University of Turin), Réka Markovich (University of Luxembourg)"
+        },
+        {
+          "name": "Generoso L***",
+          "thesis": "European Legislative LLM Informed by RAG on Knowledge Graph",
+          "programme": "PhD in Informatique · University of Luxembourg (cotutelle with University of Bologna)",
+          "level": "phd",
+          "status": "ongoing",
+          "supervisors": "Monica Palmirani (University of Bologna), Leon van der Torre (University of Luxembourg)"
+        }
+      ]
+    },
+    {
+      "label": "MSc Supervision",
+      "kind": "supervision",
+      "items": [
+        {
+          "name": "Reisa H***",
+          "thesis": "An Empirical Study on Aligning Retrieval-Augmented Language Models as AI Health Coach (A Comparative Analysis of SFT and Base Model Selection)",
+          "programme": "Master in Information and Computer Science (MICS) · University of Luxembourg",
+          "level": "msc",
+          "status": "completed",
+          "supervisors": "Leon van der Torre"
+        },
+        {
+          "name": "Guillaume B***",
+          "thesis": "How LLMs Can Be Exploited and a Potential Framework SENATLLM to Undermine the Attacks",
+          "programme": "Master in Information and Computer Science (MICS) · University of Luxembourg",
+          "level": "msc",
+          "status": "completed",
+          "supervisors": "Sergio Coronado"
+        },
+        {
+          "name": "Gabriel S***",
+          "thesis": "Testing large models' strategic reasoning using multi-agent systems",
+          "programme": "Master in Information and Computer Science (MICS) · University of Luxembourg",
+          "level": "msc",
+          "status": "completed",
+          "supervisors": "Réka Markovich"
+        }
+      ]
+    }
+  ]
+}

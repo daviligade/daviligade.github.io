@@ -1,0 +1,271 @@
+{
+  "title": "Publications",
+  "icon": "book",
+  "type": "publications",
+  "items": [
+    {
+      "title": "Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning",
+      "authors": "Davide Liga, Liuwen Yu, Réka Markovich",
+      "venue": "Forthcoming",
+      "year": 2026,
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering",
+      "authors": "Liuwen Yu, Davide Liga, Réka Markovich",
+      "venue": "Proceedings of the Twentieth International Conference on Artificial Intelligence and Law (ICAIL 2026), ACM",
+      "year": 2026,
+      "type": "conference",
+      "url": "https://doi.org/10.1145/3769126.3769252"
+    },
+    {
+      "title": "Which Neurons Nudge Normative Stance? Causal Tests and Mechanistic Evidence via Contrastive Last-Token Steering",
+      "authors": "Davide Liga, Liuwen Yu",
+      "venue": "Frontiers in Artificial Intelligence and Applications, IOS Press",
+      "year": 2025,
+      "type": "chapter",
+      "url": "https://doi.org/10.3233/FAIA251581"
+    },
+    {
+      "title": "On the Interplay Between Entailments Among Obligations and their Violations",
+      "authors": "Livio Robaldo, Davide Liga",
+      "venue": "Springer",
+      "year": 2025,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-981-96-7071-0_2"
+    },
+    {
+      "title": "Augmenting Dark Patterns Text Data by Leveraging Large Language Models: A Multi-agent Framework and Parameter-Efficient Fine-Tuning",
+      "authors": "Emre Kocyigit, Davide Liga, Gabriele Lenzini",
+      "venue": "Advances in Explainability, Agents, and Large Language Models, Springer",
+      "year": 2025,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-3-031-89103-8_5"
+    },
+    {
+      "title": "Foundations for Territorial Disambiguation in Law: A Preliminary Study using the Education Act 2005",
+      "authors": "Safia Kanwal, Livio Robaldo, Hafsa Dar, Davide Liga, Joseph Anim",
+      "venue": "Jurisin 2025",
+      "year": 2025,
+      "type": "journal",
+      "url": ""
+    },
+    {
+      "title": "Leveraging LLMs and LegalDocML to extract legal interpretations: a case study on UK legislation and case law",
+      "authors": "Sofia Kanwal, Livio Robaldo, Joseph Anim, Davide Liga",
+      "venue": "Local Proceedings of the 19th International Workshop on Juris-Informatics (JURISIN 2025)",
+      "year": 2025,
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "The Interplay Between Lawfulness and Explainability in the Automated Decision-Making of EU Administration",
+      "authors": "Davide Liga",
+      "venue": "Governance of Automated Decision-Making and EU Law, Oxford University Press",
+      "year": 2024,
+      "type": "chapter",
+      "url": "https://doi.org/10.1093/9780198919575.003.0009"
+    },
+    {
+      "title": "An Example of Argumentation Scheme from Liability: The Case of Vicarious Liability",
+      "authors": "Davide Liga",
+      "venue": "Springer",
+      "year": 2024,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-3-031-60511-6_9"
+    },
+    {
+      "title": "Argumentative Sequence Labelling Using Transfer Learning",
+      "authors": "Davide Liga",
+      "venue": "The Cognitive Dimension of Social Argumentation",
+      "year": 2024,
+      "type": "chapter",
+      "url": ""
+    },
+    {
+      "title": "Using Ontological Knowledge and Large Language Model Vector Similarities to Extract Relevant Concepts in VAT-Related Legal Judgments",
+      "authors": "Davide Liga, Alessia Fidelangeli, Réka Markovich",
+      "venue": "New Frontiers in Artificial Intelligence, Springer Nature Switzerland",
+      "year": 2024,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-3-031-60511-6_8"
+    },
+    {
+      "title": "Fine-tuning GPT-3 for legal rule classification",
+      "authors": "Davide Liga, Livio Robaldo",
+      "venue": "Computer Law & Security Review, Vol. 51",
+      "year": 2023,
+      "type": "journal",
+      "url": "https://doi.org/10.1016/j.clsr.2023.105864"
+    },
+    {
+      "title": "OntoVAT, an ontology for knowledge extraction in VAT-related judgments",
+      "authors": "Davide Liga, Alessia Fidelangeli, Réka Markovich",
+      "venue": "JURISIN 2023 Proceedings",
+      "year": 2023,
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "PaTrOnto, an ontology for patents and trademarks",
+      "authors": "Davide Liga, Daniele Amitrano, Réka Markovich",
+      "venue": "JURISIN 2023 Proceedings",
+      "year": 2023,
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "The Argumentation Scheme from Vicarious Liability",
+      "authors": "Davide Liga",
+      "venue": "JURISIN 2023 Proceedings",
+      "year": 2023,
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "Classifying norms via pre-trained language models: experiments on the DAPRECO-KB",
+      "authors": "Davide Liga, Livio Robaldo",
+      "venue": "JURISIN 2023 Proceedings",
+      "year": 2023,
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "Logics for AI and Law",
+      "authors": "Davide Liga (editor)",
+      "venue": "Edited Volume",
+      "year": 2023,
+      "type": "book",
+      "url": ""
+    },
+    {
+      "title": "Testing spatial reasoning of Large Language Models: the case of tic-tac-toe",
+      "authors": "Davide Liga, Luca Pasetto",
+      "venue": "Proceedings of AIxPAC 2023",
+      "year": 2023,
+      "type": "workshop",
+      "url": ""
+    },
+    {
+      "title": "The interplay between lawfulness and explainability in the automated decision making of the EU administration",
+      "authors": "Davide Liga",
+      "venue": "University of Luxembourg Law Research Paper",
+      "year": 2023,
+      "type": "preprint",
+      "url": ""
+    },
+    {
+      "title": "Transfer Learning for Deontic Rule Classification: The Case Study of the GDPR",
+      "authors": "Davide Liga, Monica Palmirani",
+      "venue": "Legal Knowledge and Information Systems: JURIX 2022, IOS Press",
+      "year": 2022,
+      "type": "chapter",
+      "url": "https://doi.org/10.3233/FAIA220467"
+    },
+    {
+      "title": "Deontic Sentence Classification Using Tree Kernel Classifiers",
+      "authors": "Davide Liga, Monica Palmirani",
+      "venue": "Proceedings of SAI Intelligent Systems Conference, Lecture Notes in Networks and Systems, Springer",
+      "year": 2022,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-3-031-16072-1_4"
+    },
+    {
+      "title": "Derogations Analysis of European Legislation Through Hybrid AI Approach",
+      "authors": "Monica Palmirani, Davide Liga",
+      "venue": "Electronic Government and the Information Systems Perspective, Springer",
+      "year": 2022,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-3-031-12673-4_9"
+    },
+    {
+      "title": "Hybrid Artificial Intelligence to Extract Patterns and Rules from Argumentative and Legal Texts",
+      "authors": "Davide Liga",
+      "venue": "PhD Thesis, University of Bologna & University of Luxembourg",
+      "year": 2022,
+      "type": "thesis",
+      "url": "https://doi.org/10.48676/UNIBO/AMSDOTTORATO/9996"
+    },
+    {
+      "title": "Hybrid AI framework for legal analysis of the EU legislation corrigenda",
+      "authors": "Monica Palmirani, Francesco Sovrano, Davide Liga, Salvatore Sapienza, Fabio Vitali",
+      "venue": "Legal Knowledge and Information Systems (JURIX 2021), IOS Press",
+      "year": 2021,
+      "type": "chapter",
+      "url": ""
+    },
+    {
+      "title": "Uncertainty in Argumentation Schemes: Negative Consequences and Basic Slippery Slope",
+      "authors": "Davide Liga, Monica Palmirani",
+      "venue": "International Conference on Logic and Argumentation (CLAR 2020), Springer",
+      "year": 2020,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-3-030-44638-3_16"
+    },
+    {
+      "title": "Transfer Learning with Sentence Embeddings for Argumentative Evidence Classification",
+      "authors": "Davide Liga, Monica Palmirani",
+      "venue": "Proceedings of the 20th Workshop on Computational Models of Natural Argument",
+      "year": 2020,
+      "type": "workshop",
+      "url": ""
+    },
+    {
+      "title": "Argumentation Schemes as Templates? Combining Bottom-up and Top-down Knowledge Representation",
+      "authors": "Davide Liga, Monica Palmirani",
+      "venue": "Proceedings of the 20th Workshop on Computational Models of Natural Argument",
+      "year": 2020,
+      "type": "workshop",
+      "url": ""
+    },
+    {
+      "title": "Combining tree kernels and tree representations to classify argumentative stances",
+      "authors": "Davide Liga, Monica Palmirani",
+      "venue": "CLADAG 2019",
+      "year": 2019,
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "Argumentative Evidences Classification and Argument Scheme Detection Using Tree Kernels",
+      "authors": "Davide Liga",
+      "venue": "Proceedings of the 6th Workshop on Argument Mining (ACL 2019)",
+      "year": 2019,
+      "type": "workshop",
+      "url": ""
+    },
+    {
+      "title": "Detecting \"Slippery Slope\" and Other Argumentative Stances of Opposition Using Tree Kernels in Monologic Discourse",
+      "authors": "Davide Liga, Monica Palmirani",
+      "venue": "International Joint Conference on Rules and Reasoning (RuleML+RR 2019), Springer",
+      "year": 2019,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-3-030-31095-0_13"
+    },
+    {
+      "title": "Classifying argumentative stances of opposition using Tree Kernels",
+      "authors": "Davide Liga, Monica Palmirani",
+      "venue": "ACM International Conference Proceeding Series (ACAI 2019)",
+      "year": 2019,
+      "type": "conference",
+      "url": "https://doi.org/10.1145/3377713.3377717"
+    },
+    {
+      "title": "The sentiment of the infosphere: A sentiment analysis approach for the big conversation on the net",
+      "authors": "Antonio Ruoto, Vito Santarcangelo, Davide Liga, Giuseppe Oddo, Massimiliano Giacalone, Eugenio Iorio",
+      "venue": "Data Science and Social Research, Springer",
+      "year": 2017,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-3-319-55477-8_20"
+    },
+    {
+      "title": "An innovative approach for Opinion Mining: the Plutchick Analysis",
+      "authors": "Massimiliano Giacalone, Antonio Ruoto, Davide Liga, Maria Pilato, Vito Santarcangelo",
+      "venue": "SIS 2017",
+      "year": 2017,
+      "type": "conference",
+      "url": ""
+    }
+  ]
+}

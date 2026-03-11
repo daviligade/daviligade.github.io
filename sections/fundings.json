@@ -1,0 +1,77 @@
+{
+  "title": "Funds & Grants",
+  "icon": "award",
+  "type": "fundings",
+  "items": [
+    {
+      "shortTitle": "NoRMLLM",
+      "fullTitle": "Normative Reasoning in Large Language Models",
+      "agency": "European Commission",
+      "agencyShort": "MSCA PF 2025",
+      "role": "PI",
+      "pi": "Dr. Davide Liga",
+      "budget": "",
+      "period": "24 months",
+      "status": "seal",
+      "partners": ["University of Luxembourg", "TU Wien"],
+      "description": "The **Seal of Excellence** recognises high-quality Horizon Europe proposals that passed evaluation but could not be funded due to budget limitations. This project explores how large language models can better reason with norms through synthetic dataset generation, alignment techniques, and mechanistic interpretability.",
+      "url": ""
+    },
+    {
+      "shortTitle": "RECALL",
+      "fullTitle": "Reasoning and Explaining CAusality and Liability through Legal AI",
+      "agency": "Luxembourg National Research Fund",
+      "agencyShort": "FNR CORE 2025",
+      "role": "Main Author / WP Leader",
+      "pi": "Dr. Réka Markovich (PI); Dr. Amro Najjar (co-PI)",
+      "budget": "€935K",
+      "period": "2027 – 2029",
+      "status": "funded",
+      "partners": ["University of Luxembourg", "Luxembourg Institute of Science and Technology (LIST)"],
+      "description": "",
+      "url": "https://www.fnr.lu/results-2025-core-call/"
+    },
+    {
+      "shortTitle": "SERAFIN",
+      "fullTitle": "Symbolic and Explainable Regulatory AI for Finance Innovation",
+      "agency": "Luxembourg National Research Fund",
+      "agencyShort": "FNR CORE 2024",
+      "role": "Main Author / WP Leader",
+      "pi": "Prof. Leon van der Torre (PI); Dr. Ankit Arora (co-PI)",
+      "budget": "€600K",
+      "period": "2026 – 2028",
+      "status": "funded",
+      "partners": ["University of Luxembourg", "Luxembourg Institute of Science and Technology (LIST)"],
+      "description": "",
+      "url": "https://www.fnr.lu/results-2024-core-call/"
+    },
+    {
+      "shortTitle": "DJ4ME",
+      "fullTitle": "A DJ For Machine Ethics: The Dialogue Jiminy",
+      "agency": "Luxembourg National Research Fund",
+      "agencyShort": "FNR OPEN 2024",
+      "role": "Main Author / WP Leader",
+      "pi": "Prof. Leon van der Torre (PI)",
+      "budget": "€600K",
+      "period": "2026 – 2028",
+      "status": "funded",
+      "partners": ["University of Luxembourg"],
+      "description": "",
+      "url": "https://www.fnr.lu/results-2024-open-call/"
+    },
+    {
+      "shortTitle": "LAMORE",
+      "fullTitle": "Language Models For Legal Reasoning",
+      "agency": "Luxembourg National Research Fund",
+      "agencyShort": "FNR CORE 2023-24",
+      "role": "PI",
+      "pi": "Dr. Davide Liga",
+      "budget": "",
+      "period": "36 months",
+      "status": "recommended",
+      "partners": ["University of Luxembourg"],
+      "description": "The project was **recommended for funding** by an international scientific panel on behalf of the FNR with a very positive score.",
+      "url": ""
+    }
+  ]
+}

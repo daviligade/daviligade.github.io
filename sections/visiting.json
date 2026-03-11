@@ -1,0 +1,47 @@
+{
+  "title": "Research Visiting/Stays",
+  "icon": "plane",
+  "type": "timeline",
+  "items": [
+    {
+      "institution": "Zhejiang University",
+      "department": "",
+      "host": "Prof. Beishui Liao",
+      "location": "Hangzhou, China",
+      "period": "2019",
+      "description": "Research visit in the context of the international project MIREL."
+    },
+    {
+      "institution": "Kyoto University",
+      "department": "",
+      "host": "Prof. Ryuta Arisaka",
+      "location": "Kyoto, Japan",
+      "period": "2023",
+      "description": ""
+    },
+    {
+      "institution": "Zhejiang University",
+      "department": "",
+      "host": "Prof. Beishui Liao",
+      "location": "Hangzhou, China",
+      "period": "2023",
+      "description": ""
+    },
+    {
+      "institution": "University of Bergen",
+      "department": "",
+      "host": "prof. Marija Slavkovik",
+      "location": "Bergen, Norway",
+      "period": "2023",
+      "description": ""
+    },
+    {
+      "institution": "University of Bergen",
+      "department": "",
+      "host": "prof. Samia Touileb",
+      "location": "Bergen, Norway",
+      "period": "2024",
+      "description": "Research visit in the context of the AI Alignment workshop."
+    }
+  ]
+}

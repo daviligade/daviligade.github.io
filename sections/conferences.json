@@ -4,38 +4,20 @@
     "type": "timeline",
     "items": [
         {
-            "title": "SPEAKABLE \u2014 Speech Language Models in Low-Resource Settings: Performance, Evaluation, and Bias Analysis",
-            "event": "LREC 2026",
-            "role": "Workshop Organiser",
-            "badge": "organizer",
-            "location": "Mallorca, Spain",
-            "date": "May 2026",
-            "url": ""
-        },
-        {
-            "title": "NORA 2026 \u2014 Normative Reasoning for Agentic AI (Special Track)",
-            "event": "39th International FLAIRS Conference",
-            "role": "Track Organiser",
-            "badge": "organizer",
-            "location": "Marco Island, Florida, USA",
-            "date": "May 2026",
-            "url": ""
-        },
-        {
-            "title": "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI (Best Paper)",
-            "event": "International Conference on Artificial Intelligence and Law (ICAIL 2025)",
-            "role": "Paper Presentation",
-            "location": "Chicago, USA",
-            "date": "Jun 2025",
-            "url": "https://doi.org/10.1145/3769126.3769252"
-        },
-        {
             "title": "From Numbers to Meaning: The Rise of LLMs within the Symbolic-Subsymbolic Dichotomy",
             "event": "Xi'an Jiaotong-Liverpool University",
             "role": "Invited Talk",
             "badge": "invited",
             "location": "Suzhou, China",
             "date": "Feb 2026",
+            "url": ""
+        },
+        {
+            "title": "Which Neurons Nudge Normative Stance? Causal Tests and Mechanistic Evidence via Contrastive Last-Token Steering",
+            "event": "JURIX 2025",
+            "role": "Paper Presentation",
+            "location": "Turin, Italy",
+            "date": "Dec 2025",
             "url": ""
         },
         {
@@ -48,10 +30,42 @@
             "url": ""
         },
         {
+            "title": "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI (Best Paper)",
+            "event": "International Conference on Artificial Intelligence and Law (ICAIL 2025)",
+            "role": "Paper Presentation",
+            "location": "Chicago, USA",
+            "date": "Jun 2025",
+            "url": "https://doi.org/10.1145/3769126.3769252"
+        },
+        {
+            "title": "On the interplay between entailments among obligations and their violations",
+            "event": "JURISIN 2025 (at JSAI-isAI 2025)",
+            "role": "Paper Presentation",
+            "location": "Osaka, Japan",
+            "date": "May 2025",
+            "url": ""
+        },
+        {
             "title": "Leveraging LLMs and LegalDocML to extract legal interpretations",
             "event": "JURISIN 2025 (at JSAI-isAI 2025)",
             "role": "Paper Presentation",
             "location": "Osaka, Japan",
+            "date": "May 2025",
+            "url": ""
+        },
+        {
+            "title": "Foundations for Territorial Disambiguation in Law: A Preliminary Study Using the Education Act 2005",
+            "event": "JURISIN 2025 (at JSAI-isAI 2025)",
+            "role": "Paper Presentation",
+            "location": "Osaka, Japan",
+            "date": "May 2025",
+            "url": ""
+        },
+        {
+            "title": "Can Large Language Models Reliably Extract Jurisdictional Variations? An Empirical Study on UK Statutory Texts",
+            "event": "Frontiers of Information Technology (FIT 2025)",
+            "role": "Paper Presentation",
+            "location": "",
             "date": "May 2025",
             "url": ""
         },
@@ -63,6 +77,14 @@
             "location": "Bergen, Norway",
             "date": "Nov 2024",
             "url": "https://medieklyngen.no/events/uib-ai-12-aligning-ai-with-human-values-challenges-and-solutions/"
+        },
+        {
+            "title": "Augmenting Dark Patterns Text Data by Leveraging Large Language Models: A Multi-agent Framework and Parameter-Efficient Fine-Tuning",
+            "event": "CALM 2024",
+            "role": "Paper Presentation",
+            "location": "Kyoto, Japan",
+            "date": "Nov 2024",
+            "url": ""
         },
         {
             "title": "CALM 2024 \u2014 1st International Workshop on Causality, Agents, and Large Models",
@@ -86,6 +108,14 @@
             "event": "AIxPAC 2023 (at AIxIA 2023)",
             "role": "Paper Presentation",
             "location": "Rome, Italy",
+            "date": "2023",
+            "url": ""
+        },
+        {
+            "title": "Testing the reasoning of Large Language Models on tic-tac-toe",
+            "event": "ACLAI 2023",
+            "role": "Paper Presentation",
+            "location": "Malaga, Spain",
             "date": "2023",
             "url": ""
         },
@@ -119,7 +149,7 @@
             "title": "Derogations Analysis of European Legislation Through Hybrid AI Approach",
             "event": "EGOV-ISP 2022",
             "role": "Paper Presentation",
-            "location": "Link\u00f6ping, Sweden",
+            "location": "",
             "date": "Sep 2022",
             "url": "https://doi.org/10.1007/978-3-031-12673-4_9"
         },
@@ -130,6 +160,38 @@
             "location": "Amsterdam, the Netherlands",
             "date": "Sep 2022",
             "url": "https://doi.org/10.1007/978-3-031-16072-1_4"
+        },
+        {
+            "title": "Hybrid AI framework for legal analysis of the EU legislation corrigenda",
+            "event": "Legal Knowledge and Information Systems (JURIX 2021)",
+            "role": "Paper Presentation",
+            "location": "",
+            "date": "2021",
+            "url": ""
+        },
+          {
+            "title": "Argumentation Schemes as Templates? Combining Bottom-up and Top-down Knowledge Representation",
+            "event": "20th Workshop on Computational Models of Natural Argument",
+            "role": "Paper Presentation",
+            "location": "Online",
+            "date": "2020",
+            "url": ""
+        },
+        {
+            "title": "Transfer Learning with Sentence Embeddings for Argumentative Evidence Classification",
+            "event": "20th Workshop on Computational Models of Natural Argument",
+            "role": "Paper Presentation",
+            "location": "Online",
+            "date": "2020",
+            "url": ""
+        },
+        {
+            "title": "Combining tree kernels and tree representations to classify argumentative stances",
+            "event": "International Workshop on Artificial Intelligence for Legal Documents (AI4LEGAL 2020)",
+            "role": "Paper Presentation",
+            "location": "",
+            "date": "2020",
+            "url": ""
         },
         {
             "title": "Uncertainty in Argumentation Schemes: Negative Consequences and Basic Slippery Slope",
@@ -165,12 +227,48 @@
             "url": ""
         },
         {
+            "title": "Comparing Tree Kernels performances in argumentative evidence classification",
+            "event": "CLADAG 2019",
+            "role": "Paper Presentation",
+            "location": "",
+            "date": "2019",
+            "url": ""
+        },
+        {
             "title": "Classifying argumentative stances of opposition using Tree Kernels",
             "event": "ACAI 2019 \u2014 ACM International Conference on Algorithms, Computing and Artificial Intelligence",
             "role": "Paper Presentation",
             "location": "Sanya, China",
             "date": "2019",
             "url": "https://doi.org/10.1145/3377713.3377717"
+        }
+    ],
+    "ADDITIONAL": [
+        {
+            "title": "SPEAKABLE \u2014 Speech Language Models in Low-Resource Settings: Performance, Evaluation, and Bias Analysis",
+            "event": "LREC 2026",
+            "role": "Workshop Organiser",
+            "badge": "organizer",
+            "location": "Mallorca, Spain",
+            "date": "May 2026",
+            "url": ""
+        },
+        {
+            "title": "NORA 2026 \u2014 Normative Reasoning for Agentic AI (Special Track)",
+            "event": "39th International FLAIRS Conference",
+            "role": "Track Organiser",
+            "badge": "organizer",
+            "location": "Marco Island, Florida, USA",
+            "date": "May 2026",
+            "url": ""
+        },
+        {
+            "title": "An innovative approach for Opinion Mining: the Plutchick Analysis.",
+            "event": "SIS 2017",
+            "role": "Paper Presentation",
+            "location": "",
+            "date": "2017",
+            "url": ""
         }
     ]
 }

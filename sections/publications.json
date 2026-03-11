@@ -6,23 +6,23 @@
     {
       "title": "Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning",
       "authors": "Davide Liga, Liuwen Yu, Réka Markovich",
-      "venue": "Forthcoming",
+      "venue": "AAAI-2026 Bridge Program – Logical and Symbolic Reasoning in Language Models",
       "year": 2026,
-      "type": "conference",
+      "type": "workshop",
       "url": ""
     },
     {
       "title": "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering",
       "authors": "Liuwen Yu, Davide Liga, Réka Markovich",
-      "venue": "Proceedings of the Twentieth International Conference on Artificial Intelligence and Law (ICAIL 2025), ACM",
-      "year": 2026,
+      "venue": "Proceedings of the 20th International Conference on Artificial Intelligence and Law (ICAIL 2025), ACM",
+      "year": 2025,
       "type": "conference",
       "url": "https://doi.org/10.1145/3769126.3769252"
     },
     {
       "title": "Which Neurons Nudge Normative Stance? Causal Tests and Mechanistic Evidence via Contrastive Last-Token Steering",
       "authors": "Davide Liga, Liuwen Yu",
-      "venue": "Frontiers in Artificial Intelligence and Applications, IOS Press",
+      "venue": "Legal Knowledge and Information Systems (JURIX 2025), IOS Press",
       "year": 2025,
       "type": "chapter",
       "url": "https://doi.org/10.3233/FAIA251581"
@@ -30,7 +30,7 @@
     {
       "title": "On the Interplay Between Entailments Among Obligations and their Violations",
       "authors": "Livio Robaldo, Davide Liga",
-      "venue": "Springer",
+      "venue": "New Frontiers in Artificial Intelligence. JSAI-isAI 2025. Lecture Notes in Computer Science, vol. 15692, Springer",
       "year": 2025,
       "type": "chapter",
       "url": "https://doi.org/10.1007/978-981-96-7071-0_2"
@@ -38,23 +38,23 @@
     {
       "title": "Augmenting Dark Patterns Text Data by Leveraging Large Language Models: A Multi-agent Framework and Parameter-Efficient Fine-Tuning",
       "authors": "Emre Kocyigit, Davide Liga, Gabriele Lenzini",
-      "venue": "Advances in Explainability, Agents, and Large Language Models, Springer",
+      "venue": "Advances in Explainability, Agents, and Large Language Models (CALM 2024), Springer",
       "year": 2025,
       "type": "chapter",
       "url": "https://doi.org/10.1007/978-3-031-89103-8_5"
     },
     {
       "title": "Foundations for Territorial Disambiguation in Law: A Preliminary Study using the Education Act 2005",
-      "authors": "Safia Kanwal, Livio Robaldo, Hafsa Dar, Davide Liga, Joseph Anim",
-      "venue": "Jurisin 2025",
+      "authors": "Safia Kanwal, Livio Robaldo, Hafsa Dar, Davide Liga, Joseph Anim, Kuuku Anim",
+      "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 416 (JURIX 2025), IOS Press",
       "year": 2025,
-      "type": "journal",
+      "type": "conference",
       "url": ""
     },
     {
       "title": "Leveraging LLMs and LegalDocML to extract legal interpretations: a case study on UK legislation and case law",
-      "authors": "Sofia Kanwal, Livio Robaldo, Joseph Anim, Davide Liga",
-      "venue": "Local Proceedings of the 19th International Workshop on Juris-Informatics (JURISIN 2025)",
+      "authors": "Safia Kanwal, Livio Robaldo, Joseph Anim, Davide Liga",
+      "venue": "JURISIN 2025 Local Proceedings",
       "year": 2025,
       "type": "conference",
       "url": ""
@@ -70,7 +70,7 @@
     {
       "title": "An Example of Argumentation Scheme from Liability: The Case of Vicarious Liability",
       "authors": "Davide Liga",
-      "venue": "Springer",
+      "venue": "New Frontiers in Artificial Intelligence. JSAI-isAI 2023. Lecture Notes in Computer Science, vol. 14644, Springer",
       "year": 2024,
       "type": "chapter",
       "url": "https://doi.org/10.1007/978-3-031-60511-6_9"
@@ -86,7 +86,7 @@
     {
       "title": "Using Ontological Knowledge and Large Language Model Vector Similarities to Extract Relevant Concepts in VAT-Related Legal Judgments",
       "authors": "Davide Liga, Alessia Fidelangeli, Réka Markovich",
-      "venue": "New Frontiers in Artificial Intelligence, Springer Nature Switzerland",
+      "venue": "New Frontiers in Artificial Intelligence. JSAI-isAI 2023. Lecture Notes in Computer Science, vol. 14644, Springer",
       "year": 2024,
       "type": "chapter",
       "url": "https://doi.org/10.1007/978-3-031-60511-6_8"
@@ -133,8 +133,8 @@
     },
     {
       "title": "Logics for AI and Law",
-      "authors": "Davide Liga (editor)",
-      "venue": "Edited Volume",
+      "authors": "Bruno Bentzen, Beishui Liao, Davide Liga, Réka Markovich, Bin Wei, Minghui Xiong, Tianwen Xu (editors)",
+      "venue": "College Publications",
       "year": 2023,
       "type": "book",
       "url": ""
@@ -142,7 +142,7 @@
     {
       "title": "Testing spatial reasoning of Large Language Models: the case of tic-tac-toe",
       "authors": "Davide Liga, Luca Pasetto",
-      "venue": "Proceedings of AIxPAC 2023",
+      "venue": "Proceedings of AIxPAC@AI*IA 2023",
       "year": 2023,
       "type": "workshop",
       "url": ""
@@ -150,7 +150,7 @@
     {
       "title": "The interplay between lawfulness and explainability in the automated decision making of the EU administration",
       "authors": "Davide Liga",
-      "venue": "University of Luxembourg Law Research Paper",
+      "venue": "SSRN Electronic Journal (University of Luxembourg Law Research Paper No. 2023-12)",
       "year": 2023,
       "type": "preprint",
       "url": ""
@@ -222,9 +222,9 @@
     {
       "title": "Combining tree kernels and tree representations to classify argumentative stances",
       "authors": "Davide Liga, Monica Palmirani",
-      "venue": "CLADAG 2019",
-      "year": 2019,
-      "type": "conference",
+      "venue": "Advances in Semantics and Linked Data: Joint Workshop Proceedings from ISWC 2020 (AI4LEGAL 2020)",
+      "year": 2020,
+      "type": "workshop",
       "url": ""
     },
     {

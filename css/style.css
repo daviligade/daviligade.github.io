@@ -111,11 +111,6 @@ ol, ul { list-style: none; }
   font-weight: 600;
   line-height: 1;
   user-select: none;
-  background-image: url("https://daviligade.github.io/images/google-scholar-photo.jpeg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: transparent;
 }
 
 .header-info { flex: 1; min-width: 0; }

@@ -9,15 +9,7 @@
       "venue": "AAAI-2026 Bridge Program – Logical and Symbolic Reasoning in Language Models",
       "year": 2026,
       "type": "workshop",
-      "url": ""
-    },
-    {
-      "title": "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering",
-      "authors": "Liuwen Yu, Davide Liga, Réka Markovich",
-      "venue": "Proceedings of the 20th International Conference on Artificial Intelligence and Law (ICAIL 2025), ACM",
-      "year": 2025,
-      "type": "conference",
-      "url": "https://doi.org/10.1145/3769126.3769252"
+      "url": "https://openreview.net/pdf/ffcb9e941132fd8b3c968acee2e69be4e15f55c4.pdf"
     },
     {
       "title": "Which Neurons Nudge Normative Stance? Causal Tests and Mechanistic Evidence via Contrastive Last-Token Steering",
@@ -26,6 +18,14 @@
       "year": 2025,
       "type": "chapter",
       "url": "https://doi.org/10.3233/FAIA251581"
+    },
+    {
+      "title": "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering",
+      "authors": "Liuwen Yu, Davide Liga, Réka Markovich",
+      "venue": "Proceedings of the 20th International Conference on Artificial Intelligence and Law (ICAIL 2025), ACM",
+      "year": 2025,
+      "type": "conference",
+      "url": "https://doi.org/10.1145/3769126.3769252"
     },
     {
       "title": "On the Interplay Between Entailments Among Obligations and their Violations",

@@ -209,7 +209,7 @@
       "venue": "Proceedings of the 20th Workshop on Computational Models of Natural Argument",
       "year": 2020,
       "type": "workshop",
-      "url": ""
+      "url": "https://ceur-ws.org/Vol-2669/paper2.pdf"
     },
     {
       "title": "Argumentation Schemes as Templates? Combining Bottom-up and Top-down Knowledge Representation",
@@ -233,7 +233,7 @@
       "venue": "Proceedings of the 6th Workshop on Argument Mining (ACL 2019)",
       "year": 2019,
       "type": "workshop",
-      "url": ""
+      "url": "https://doi.org/10.18653/v1/W19-4511"
     },
     {
       "title": "Detecting \"Slippery Slope\" and Other Argumentative Stances of Opposition Using Tree Kernels in Monologic Discourse",

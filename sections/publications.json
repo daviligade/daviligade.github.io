@@ -49,7 +49,7 @@
       "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 416 (JURIX 2025), IOS Press",
       "year": 2025,
       "type": "conference",
-      "url": ""
+      "url": "http://doi.org/10.3233/FAIA251622"
     },
     {
       "title": "Leveraging LLMs and LegalDocML to extract legal interpretations: a case study on UK legislation and case law",
@@ -57,7 +57,7 @@
       "venue": "JURISIN 2025 Local Proceedings",
       "year": 2025,
       "type": "conference",
-      "url": ""
+      "url": "https://jurisinformaticscenter.github.io/jurisin2025/jurisin2025localproceedings.pdf#page=38"
     },
     {
       "title": "The Interplay Between Lawfulness and Explainability in the Automated Decision-Making of EU Administration",
@@ -81,7 +81,7 @@
       "venue": "The Cognitive Dimension of Social Argumentation (Proceedings of the 4th European Conference on Argumentation, 2022), College Publications",
       "year": 2024,
       "type": "chapter",
-      "url": ""
+      "url": "https://www.collegepublications.co.uk/logic/sla/?00021"
     },
     {
       "title": "Using Ontological Knowledge and Large Language Model Vector Similarities to Extract Relevant Concepts in VAT-Related Legal Judgments",
@@ -105,7 +105,7 @@
       "venue": "JURISIN 2023 Proceedings",
       "year": 2023,
       "type": "conference",
-      "url": ""
+      "url": "https://doi.org/10.1007/978-3-031-60511-6_8"
     },
     {
       "title": "PaTrOnto, an ontology for patents and trademarks",
@@ -113,7 +113,7 @@
       "venue": "JURISIN 2023 Proceedings",
       "year": 2023,
       "type": "conference",
-      "url": ""
+      "url": "https://orbilu.uni.lu/handle/10993/57755"
     },
     {
       "title": "The Argumentation Scheme from Vicarious Liability",
@@ -121,7 +121,7 @@
       "venue": "JURISIN 2023 Proceedings",
       "year": 2023,
       "type": "conference",
-      "url": ""
+      "url": "https://doi.org/10.1007/978-3-031-60511-6_9"
     },
     {
       "title": "Classifying norms via pre-trained language models: experiments on the DAPRECO-KB",
@@ -137,7 +137,7 @@
       "venue": "College Publications",
       "year": 2023,
       "type": "book",
-      "url": ""
+      "url": "https://www.collegepublications.co.uk/LNGAI/?00003"
     },
     {
       "title": "Testing spatial reasoning of Large Language Models: the case of tic-tac-toe",
@@ -145,7 +145,7 @@
       "venue": "Proceedings of AIxPAC@AI*IA 2023",
       "year": 2023,
       "type": "workshop",
-      "url": ""
+      "url": "https://ceur-ws.org/Vol-3563/paper_14.pdf"
     },
     {
       "title": "The interplay between lawfulness and explainability in the automated decision making of the EU administration",
@@ -193,7 +193,7 @@
       "venue": "Legal Knowledge and Information Systems (JURIX 2021), IOS Press",
       "year": 2021,
       "type": "chapter",
-      "url": ""
+      "url": "https://doi.org/10.3233/FAIA210319"
     },
     {
       "title": "Uncertainty in Argumentation Schemes: Negative Consequences and Basic Slippery Slope",
@@ -217,7 +217,7 @@
       "venue": "Proceedings of the 20th Workshop on Computational Models of Natural Argument",
       "year": 2020,
       "type": "workshop",
-      "url": ""
+      "url": "https://ceur-ws.org/Vol-2669/paper6.pdf"
     },
     {
       "title": "Combining tree kernels and tree representations to classify argumentative stances",
@@ -225,7 +225,7 @@
       "venue": "Advances in Semantics and Linked Data: Joint Workshop Proceedings from ISWC 2020 (AI4LEGAL 2020)",
       "year": 2020,
       "type": "workshop",
-      "url": ""
+      "url": "https://ceur-ws.org/Vol-2722/ai4legal2020-paper-2.pdf"
     },
     {
       "title": "Argumentative Evidences Classification and Argument Scheme Detection Using Tree Kernels",
@@ -265,7 +265,7 @@
       "venue": "SIS 2017",
       "year": 2017,
       "type": "conference",
-      "url": ""
+      "url": "https://hdl.handle.net/11591/483169"
     }
   ]
 }

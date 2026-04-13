@@ -4,6 +4,22 @@
   "type": "publications",
   "items": [
     {
+      "title": "(forthcoming) Retrieval-Augmented Generation for Financial Regulation via LLM Orchestration and Hybrid Symbolic-Subsymbolic AI",
+      "authors": "Davide Liga, Liuwen Yu, Ankit Arora",
+      "venue": "Proceedings of the 21st International Conference on Artificial Intelligence and Law (ICAIL 2026), ACM",
+      "year": 2026,
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "(forthcoming) Adaptive Behavioral Alignment of RAG-Based Health Coaching Agent Through Supervised Fine-Tuning",
+      "authors": "Reisa Haveri, Davide Liga",
+      "venue": "The 18th Workshop on Adaptive and Learning Agents (AAMAS 2026)",
+      "year": 2026,
+      "type": "workshop",
+      "url": ""
+    },
+    {
       "title": "Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning",
       "authors": "Davide Liga, Liuwen Yu, Réka Markovich",
       "venue": "AAAI-2026 Bridge Program – Logical and Symbolic Reasoning in Language Models",

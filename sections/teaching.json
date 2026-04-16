@@ -122,6 +122,14 @@
           "level": "phd",
           "status": "ongoing",
           "supervisors": "Monica Palmirani (University of Bologna), Leon van der Torre (University of Luxembourg)"
+        },
+        {
+          "name": "Qingjing C***",
+          "thesis": "Fairness Alignment of Benchmarks for Large Language Models",
+          "programme": "PhD in Informatique · University of Luxembourg (cotutelle with University of Bologna)",
+          "level": "phd",
+          "status": "ongoing",
+          "supervisors": "Antonino Rotolo (University of Bologna), Réka Markovich (University of Luxembourg)"
         }
       ]
     },

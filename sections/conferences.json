@@ -4,6 +4,15 @@
     "type": "timeline",
     "items": [
         {
+            "title": "Mechanistic Interpretability and Moral Stance in Large Models",
+            "event": "AI alignment",
+            "role": "Invited Talk",
+            "badge": "invited",
+            "location": "Bergen, Norway",
+            "date": "May 2026",
+            "url": "https://www.uib.no/en/ai/182154/ai-alignment#session-2-law-inerpretability-and-deployment"
+        },
+        {
             "title": "From Numbers to Meaning: The Rise of LLMs within the Symbolic-Subsymbolic Dichotomy",
             "event": "Xi'an Jiaotong-Liverpool University",
             "role": "Invited Talk",

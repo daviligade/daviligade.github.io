@@ -4,6 +4,14 @@
   "type": "publications",
   "items": [
     {
+      "title": "Identifying How UK Legislation Is Applied in Case Law: An Ensemble LLM Approach Using LegalDocML",
+      "authors": "Safia Kanwal, Livio Robaldo, Stergios Aidinlis, Joseph Anim, Davide Liga",
+      "venue": "Journal of Computational Law and Legal Technology",
+      "year": 2026,
+      "type": "journal",
+      "url": "https://doi.org/10.47852/bonviewJCLLT62029448"
+    },
+    {
       "title": "(forthcoming) Retrieval-Augmented Generation for Financial Regulation via LLM Orchestration and Hybrid Symbolic-Subsymbolic AI",
       "authors": "Davide Liga, Liuwen Yu, Ankit Arora",
       "venue": "Proceedings of the 21st International Conference on Artificial Intelligence and Law (ICAIL 2026), ACM",
@@ -77,7 +85,7 @@
     },
     {
       "title": "Foundations for Territorial Disambiguation in Law: A Preliminary Study using the Education Act 2005",
-      "authors": "Safia Kanwal, Livio Robaldo, Hafsa Dar, Davide Liga, Joseph Anim, Kuuku Anim",
+      "authors": "Safia Kanwal, Livio Robaldo, Hafsa Dar, Davide Liga, Joseph Anim",
       "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 416 (JURIX 2025), IOS Press",
       "year": 2025,
       "type": "conference",

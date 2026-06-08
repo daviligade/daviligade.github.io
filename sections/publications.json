@@ -4,6 +4,14 @@
   "type": "publications",
   "items": [
     {
+      "title": "Teaching AI to Contextualize the Law: AI-Generated Definitions from UK Statutes and Case Law",
+      "authors": "Livio Robaldo, Safia Kanwal, Davide Liga, Joseph Anim, Luca Pasetto, Stergios Aidinlis",
+      "venue": "New Frontiers in Artificial Intelligence. JSAI-isAI 2026. Lecture Notes in Computer Science, vol 16608. Springer",
+      "year": 2026,
+      "type": "chapter",
+      "url": "https://doi.org/10.1007/978-981-92-1527-0_3"
+    },
+    {
       "title": "Identifying How UK Legislation Is Applied in Case Law: An Ensemble LLM Approach Using LegalDocML",
       "authors": "Safia Kanwal, Livio Robaldo, Stergios Aidinlis, Joseph Anim, Davide Liga",
       "venue": "Journal of Computational Law and Legal Technology",

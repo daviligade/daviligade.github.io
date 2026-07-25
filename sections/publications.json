@@ -4,6 +4,14 @@
   "type": "publications",
   "items": [
     {
+      "title": "The Artificial Moral Machine: Do LLMs Mirror Human Moral Diversity or Merely Caricature It?",
+      "authors": "Davide Liga, Liuwen Yu, Marija Slavkovik, Samia Touileb, Beishui Liao, Leon van der Torre",
+      "venue": "AAAI/ACM conference on AI, Ethics, and Society (AIES 2026)",
+      "year": 2026,
+      "type": "conference",
+      "url": ""
+    },
+    {
       "title": "Teaching AI to Contextualize the Law: AI-Generated Definitions from UK Statutes and Case Law",
       "authors": "Livio Robaldo, Safia Kanwal, Davide Liga, Joseph Anim, Luca Pasetto, Stergios Aidinlis",
       "venue": "New Frontiers in Artificial Intelligence. JSAI-isAI 2026. Lecture Notes in Computer Science, vol 16608. Springer",

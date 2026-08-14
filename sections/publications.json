@@ -12,6 +12,22 @@
       "url": ""
     },
     {
+      "title": "(forthcoming) Retrieval-Augmented Generation for Financial Regulation via LLM Orchestration and Hybrid Symbolic-Subsymbolic AI",
+      "authors": "Davide Liga, Liuwen Yu, Ankit Arora",
+      "venue": "Proceedings of the 21st International Conference on Artificial Intelligence and Law (ICAIL 2026), ACM",
+      "year": 2026,
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "NL2UNIFOL: From Natural Language Sentences to Uniform First-Order Logic Formulae",
+      "authors": "Matteo Magnini, Davide Liga, Luca Pasetto",
+      "venue": "Joint Workshop on Statistics and Knowledge Integration for Logic, Learning, Ethical Decisions, and LLMs (SKILLED-LLMs 2026), co-located with FLoC 2026",
+      "year": 2026,
+      "type": "conference",
+      "url": "https://ceur-ws.org/Vol-4229/paper13.pdf"
+    },
+    {
       "title": "Teaching AI to Contextualize the Law: AI-Generated Definitions from UK Statutes and Case Law",
       "authors": "Livio Robaldo, Safia Kanwal, Davide Liga, Joseph Anim, Luca Pasetto, Stergios Aidinlis",
       "venue": "New Frontiers in Artificial Intelligence. JSAI-isAI 2026. Lecture Notes in Computer Science, vol 16608. Springer",
@@ -28,20 +44,12 @@
       "url": "https://doi.org/10.47852/bonviewJCLLT62029448"
     },
     {
-      "title": "(forthcoming) Retrieval-Augmented Generation for Financial Regulation via LLM Orchestration and Hybrid Symbolic-Subsymbolic AI",
-      "authors": "Davide Liga, Liuwen Yu, Ankit Arora",
-      "venue": "Proceedings of the 21st International Conference on Artificial Intelligence and Law (ICAIL 2026), ACM",
-      "year": 2026,
-      "type": "conference",
-      "url": ""
-    },
-    {
-      "title": "(forthcoming) Adaptive Behavioral Alignment of RAG-Based Health Coaching Agent Through Supervised Fine-Tuning",
+      "title": "Adaptive Behavioral Alignment of RAG-Based Health Coaching Agent Through Supervised Fine-Tuning",
       "authors": "Reisa Haveri, Davide Liga",
-      "venue": "The 18th Workshop on Adaptive and Learning Agents (AAMAS 2026)",
+      "venue": "The 18th Workshop on Adaptive and Learning Agents (ALA 2026, @AAMAS 2026)",
       "year": 2026,
       "type": "workshop",
-      "url": ""
+      "url": "https://openreview.net/pdf?id=FoGYJBx3dQ"
     },
     {
       "title": "Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning",

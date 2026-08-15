@@ -184,6 +184,12 @@ const renderers = {
         <ol class="pub-list">
           ${byYear[year].map(pub => {
             const typeLabel = pub.type || 'paper';
+            const AWARD = {
+              best:      'Best Paper Award 🏆',
+              nominated: 'Best Paper Nomination 📢',
+            };
+            const awardKey   = pub.award && String(pub.award).toLowerCase();
+            const awardLabel = AWARD[awardKey] || null;            
             const links = [
               pub.url    && `<a href="${esc(pub.url)}"    class="pub-link" target="_blank" rel="noopener">Link</a>`,
               pub.pdf    && `<a href="${esc(pub.pdf)}"    class="pub-link" target="_blank" rel="noopener">PDF</a>`,
@@ -194,7 +200,7 @@ const renderers = {
               <li class="pub-item">
                 <span class="pub-type-badge pub-type-${esc(typeLabel)}">${esc(typeLabel)}</span>
                 <div class="pub-body">
-                  <div class="pub-title">${pub.url ? `<a href="${esc(pub.url)}" target="_blank" rel="noopener">${esc(pub.title)}</a>` : esc(pub.title)}</div>
+                  <div class="pub-title">${pub.url ? `<a href="${esc(pub.url)}" target="_blank" rel="noopener">${esc(pub.title)}</a>` : esc(pub.title)}${awardLabel ? ` <span class="pub-award pub-award--${esc(awardKey)}">${esc(awardLabel)}</span>` : ''}</div>
                   <div class="pub-authors">${esc(pub.authors)}</div>
                   <div class="pub-venue">${esc(pub.venue)}${pub.year ? `, ${esc(String(pub.year))}` : ''}</div>
                   ${links ? `<div class="pub-links">${links}</div>` : ''}

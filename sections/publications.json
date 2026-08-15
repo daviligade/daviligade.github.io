@@ -9,6 +9,7 @@
       "venue": "AAAI/ACM conference on AI, Ethics, and Society (AIES 2026)",
       "year": 2026,
       "type": "conference",
+      "award": "nominated",
       "url": ""
     },
     {
@@ -17,6 +18,7 @@
       "venue": "Proceedings of the 21st International Conference on Artificial Intelligence and Law (ICAIL 2026), ACM",
       "year": 2026,
       "type": "conference",
+      "award": "nominated",
       "url": ""
     },
     {
@@ -97,6 +99,7 @@
       "venue": "Proceedings of the 20th International Conference on Artificial Intelligence and Law (ICAIL 2025), ACM",
       "year": 2025,
       "type": "conference",
+      "award": "best",
       "url": "https://doi.org/10.1145/3769126.3769252"
     },
     {

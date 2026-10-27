@@ -186,7 +186,7 @@ const renderers = {
             const typeLabel = pub.type || 'paper';
             const AWARD = {
               best:      'Best Paper Award 🏆',
-              nominated: 'Best Paper Nomination 📢',
+              nominated: 'Best Paper Candidate (Nomination) 📢',
             };
             const awardKey   = pub.award && String(pub.award).toLowerCase();
             const awardLabel = AWARD[awardKey] || null;            
